@@ -13,7 +13,7 @@ Most of what I build is now AI-assisted, mainly with Claude Code. My approach:
 
 ## Projects
 - **[AI Student Finance Tracker](https://github.com/ellisoutterside/student-finance-tracker)** (in progress): a budgeting app for students that imports bank statements, categorises spending and gives personalised guidance. I'm running it as product owner: user research, stories, backlog, then an AI-assisted build.
-- **[Google Sheets Budget Tracker](https://github.com/ellisoutterside/sheets-budget-tracker)**: Apps Script that imports my bank statements, sorts transactions into categories and feeds a spending dashboard.
+- **Google Sheets Budget Tracker**: Apps Script that imports my bank statements, sorts transactions into categories and feeds a spending dashboard.
 - **Metrolink Journey Planner** (university coursework, private): a Java route planner for Manchester's tram network, using BFS and Dijkstra with a penalty for changing lines.
 - **Fitness and Nutrition Tracker** (A-level coursework): a Python app with an SQL database for logging workouts and nutrition, built with object-oriented design and fully documented from analysis through to testing.
 
